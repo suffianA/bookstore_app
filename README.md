@@ -39,5 +39,5 @@ A Java-based desktop application featuring a **JavaFX GUI** and an **object-orie
     ```bash
     git clone [https://github.com/your-username/bookstore.git](https://github.com/your-username/bookstore.git)
     ```
-2.  **JavaFX Setup**: Ensure your development environment has the JavaFX SDK configured, as the project relies on the `javafx.application` and `javafx.scene` libraries[cite: 5].
+2.  **JavaFX Setup**: Ensure your development environment has the JavaFX SDK configured, as the project relies on the `javafx.application` and `javafx.scene` libraries.
 3.  **Launch**: Run the `main` method in `BookStore.java` to open the graphical window.
